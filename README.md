@@ -1,1 +1,1 @@
-
+QuickCBT is an intelligent chatbot app designed to enhance your experience by suggesting YouTube videos and Amazon products related to your queries. It provides seamless, topic-specific assistance, making learning and shopping more convenient.
