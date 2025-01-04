@@ -2,4 +2,3 @@ QuickCBT is an intelligent chatbot app designed to enhance your experience by su
 
 Check Out: [QuickCBT ChatBot](https://drive.google.com/file/d/1MVY7ThvnxU3xOrsSROkz6e7GFcrHxwiH/view).
 
-![Learn Anything](https://chinmaybhattt.github.io/QuickCBT-ChatBot-App/)
