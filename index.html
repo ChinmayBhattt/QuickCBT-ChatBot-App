@@ -100,10 +100,48 @@
             text-decoration: none;
             margin: 0 0.5em;
         }
+
+        .logo {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 1.5em;
+            font-weight: bold;
+            color: white;
+        }
+
+        .navbar {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 15px;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            font-size: 1em;
+            background: #333;
+            padding: 0.5em 1em;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        .navbar a:hover {
+            background: #555;
+        }
     </style>
 </head>
 <body>
     <div class="background"></div>
+    <div class="logo">Chinmay Bhatt</div>
+    <div class="navbar">
+        <a href="https://instagram.com/chinmaybhattt">Instagram</a>
+        <a href="https://github.com/chinmaybhattt">GitHub</a>
+        <a href="https://linkedin.com/in/chinmaybhattt">LinkedIn</a>
+        <a href="https://portfolio.com/chinmaybhattt">Portfolio</a>
+    </div>
     <div class="container">
         <h1>Learn Anything</h1>
         <p>Discover a range of activities to help you learn a new skill</p>
